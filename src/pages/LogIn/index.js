@@ -95,9 +95,7 @@ const LogInPage = () => {
                   placeholder="Enter Password"
                 ></Input>
               </Column>
-              <Text className="font-medium lg:ml-[296px] xl:ml-[338px] 2xl:ml-[381px] 3xl:ml-[457px] lg:mt-[11px] xl:mt-[13px] 2xl:mt-[15px] 3xl:mt-[18px] lg:text-[14px] xl:text-[16px] 2xl:text-[18px] 3xl:text-[21px] text-blue_A701 w-[auto]">
-                Forgot Password?
-              </Text>
+             
               <Button
                 className="common-pointer font-medium lg:mt-[21px] xl:mt-[24px] 2xl:mt-[27px] 3xl:mt-[32px] lg:text-[12px] xl:text-[14px] 2xl:text-[16px] 3xl:text-[19px] text-center w-[100%]"
                 onClick={() => {
