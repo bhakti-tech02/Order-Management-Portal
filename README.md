@@ -39,7 +39,10 @@ List of orders
 </ul>
 
 ## Screenshots
-![Dashboard](https://github.com/bhakti-tech02/figtion/blob/main/src/assets/images/Screenshot.png) 
+![Login](https://github.com/bhakti-tech02/Order-Management-Portal/blob/main/src/assets/images/login.png) 
+![Dashboard](https://github.com/bhakti-tech02/Order-Management-Portal/blob/main/src/assets/images/dashboard.png) 
+![Pdf](https://github.com/bhakti-tech02/Order-Management-Portal/blob/main/src/assets/images/pdf.png) 
+![Sort](https://github.com/bhakti-tech02/Order-Management-Portal/blob/main/src/assets/images/sort.png) 
 
 # Setup
 
