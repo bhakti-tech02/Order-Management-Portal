@@ -48,8 +48,8 @@ List of orders
 
 #### 2. Clone the repository
 ```sh
-$ git clone https://github.com/bhakti-tech02/figtion.git
-$ cd figtion
+$ git clone https://github.com/bhakti-tech02/Order-Management-Portal.git
+$ cd Order-Management-Portal
 ```
 ## Install Dependencies
 
