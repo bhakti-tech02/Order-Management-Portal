@@ -12,17 +12,13 @@ export const postBatchretrieve = (payload) =>
     ...payload,
     headers: {
       "Square-Version": "2022-07-20",
-      Authorization:
-        "Bearer EAAAEHCJQbrZZNwDtoKL5f6nPdygZaWcVqDaIiw9vbePV84ouJrWs_IRCeTAB7g_",
+      Authorization: "your-auth-token",
       ...payload?.headers,
     },
     data: {
-      location_id: "L09XSMHWWY625",
+      location_id: "your-loc-id",
       order_ids: [
-        "rRJf35nfnRTddFHDopDo9Aj6JxUZY",
-        "FmN31aRiQmXeHX7H721j38ai8r6YY",
-        "VG97Mfa6S5ZnRhBuKJ4AyKbMIBgZY",
-        "3zRiuvpiMoV41LkVYZ2eVisbfHYZY",
+        "your order ids",
       ],
       ...payload?.data,
     },

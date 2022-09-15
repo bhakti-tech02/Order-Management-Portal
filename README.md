@@ -61,18 +61,15 @@ $ cd Order-Management-Portal
 
     npm start
 
-#### 2. [Explore API](https://developer.squareup.com/docs/orders-api/manage-orders/retrieve-orders)
+#### 3. [Explore API](https://developer.squareup.com/docs/orders-api/manage-orders/retrieve-orders)
 
-<h3><u>How to run Figtion?</u></h3>
+<h3><u>How to run Order Management Portal?</u></h3>
 
-  1. First run server.js located in server folder which acts as the proxy server between Figtion and the Figma API.
+  1. Log into the application with username "Priscilla_Mohr@yahoo.com" and password "mGEGqKcEUOMnInZ".
 
-  2. Log into the application with username and password mentioned in the LogIn API from Services.
+  2. Enter authorization token in service >> api.js.
 
-  3. For accessing version and comments feature, add your Figma Access Token in constant in Services.
-
-  4. For accessing sharing feature across slack, generate your webhook url and define it in the constant.
-
+  3. Enter location Id and Order Ids in service >> api.js obtained on order creation.
 ## Running the storybook
 
 We have detected common components and have generated possible variants of it. To check the documentation of generated common components by integrating storybook, Please follow below steps.
