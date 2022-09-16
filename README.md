@@ -61,13 +61,17 @@ $ cd Order-Management-Portal
 
     npm start
 
-#### 3. [Explore API](https://developer.squareup.com/docs/orders-api/manage-orders/retrieve-orders)
+#### 3. [Get Square API Keys](https://developer.squareup.com/apps)
+
+#### 4. [Generate location and orderIds](https://developer.squareup.com/docs/orders-api/create-orders)
+
+
 
 <h3><u>How to run Order Management Portal?</u></h3>
 
   1. Log into the application with username "Priscilla_Mohr@yahoo.com" and password "mGEGqKcEUOMnInZ".
 
-  2. Enter authorization token in service >> api.js.
+  2. Enter authorization token as mentioned above in the setup in service >> api.js.
 
   3. Enter location Id and Order Ids in service >> api.js obtained on order creation.
 ## Running the storybook
